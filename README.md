@@ -49,6 +49,14 @@ It continues from Example 01 and demonstrates how custom fields can be displayed
 
 [View Example](./02-jetengine-listing-grid/)
 
+### 03. JetEngine Query Builder – Property Queries
+
+A practical example demonstrating how to create advanced property queries using JetEngine Query Builder and custom meta fields.
+
+It shows how properties can be filtered by conditions such as property type, bedrooms and price, and how the resulting query can be connected to a JetEngine Listing Grid.
+
+[View Example](./03-jetengine-query-builder/)
+
 ## Author
 
 **Muhammad Ibrahim**  
