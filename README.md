@@ -35,8 +35,11 @@ The purpose of this repository is to document practical WordPress development pa
 
 ## Examples
 
-Practical examples and documentation will be added progressively to this repository.
+### 01. JetEngine Custom Post Type – Property Listings
 
+A practical example showing how to structure a Property Listing system using a JetEngine Custom Post Type and custom meta fields.
+
+[View Example](./01-jetengine-custom-post-type/)
 ## Author
 
 **Muhammad Ibrahim**  
