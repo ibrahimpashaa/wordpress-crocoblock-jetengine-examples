@@ -57,6 +57,14 @@ It shows how properties can be filtered by conditions such as property type, bed
 
 [View Example](./03-jetengine-query-builder/)
 
+### 04. JetSmartFilters – Property Filtering
+
+A practical example demonstrating how to add interactive filtering to a dynamic Property Listing system using JetSmartFilters.
+
+It shows how users can filter properties by criteria such as property type, location, bedrooms, price and property size, with results updating dynamically using AJAX.
+
+[View Example](./04-jetsmartfilters-property-filtering/)
+
 ## Author
 
 **Muhammad Ibrahim**  
