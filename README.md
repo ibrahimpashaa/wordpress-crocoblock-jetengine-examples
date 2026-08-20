@@ -73,6 +73,14 @@ It shows how users can submit enquiries for individual properties while automati
 
 [View Example](./05-jetformbuilder-property-enquiry/)
 
+### 06. JetEngine Relations – Properties & Agents
+
+A practical example demonstrating how to connect Properties and Agents using JetEngine Relations.
+
+It shows how one agent can manage multiple properties using a one-to-many relationship, while related agent and property information can be displayed dynamically.
+
+[View Example](./06-jetengine-relations-properties-agents/)
+
 ## Author
 
 **Muhammad Ibrahim**  
