@@ -40,6 +40,15 @@ The purpose of this repository is to document practical WordPress development pa
 A practical example showing how to structure a Property Listing system using a JetEngine Custom Post Type and custom meta fields.
 
 [View Example](./01-jetengine-custom-post-type/)
+
+### 02. JetEngine Listing Grid – Property Listings
+
+A practical example showing how to display dynamic Property data using the JetEngine Listing Grid and Elementor Pro.
+
+It continues from Example 01 and demonstrates how custom fields can be displayed dynamically without hardcoding property information.
+
+[View Example](./02-jetengine-listing-grid/)
+
 ## Author
 
 **Muhammad Ibrahim**  
