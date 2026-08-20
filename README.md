@@ -81,6 +81,14 @@ It shows how one agent can manage multiple properties using a one-to-many relati
 
 [View Example](./06-jetengine-relations-properties-agents/)
 
+### 07. JetEngine Dynamic Visibility – Property Listings
+
+A practical example demonstrating how to conditionally display or hide dynamic property content using JetEngine Dynamic Visibility.
+
+It shows how visibility rules can be based on field values, property data and other conditions to create cleaner and more flexible WordPress templates.
+
+[View Example](./07-jetengine-dynamic-visibility/)
+
 ## Author
 
 **Muhammad Ibrahim**  
